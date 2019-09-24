@@ -1,0 +1,2 @@
+class IFCOPENSHELL(IFCCONNECTEDFACESET):
+	def __init__(self):

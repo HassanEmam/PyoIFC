@@ -1,0 +1,2 @@
+class IFCVERTEX(IFCTOPOLOGICALREPRESENTATIONITEM):
+	def __init__(self):

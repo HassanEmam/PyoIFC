@@ -1,0 +1,4 @@
+class IFCCARTESIANTRANSFORMATIONOPERATOR3DNONUNIFORM(IFCCARTESIANTRANSFORMATIONOPERATOR3D):
+	def __init__(self, Scale2, Scale3):
+		 self.Scale2 = Scale2
+		 self.Scale3 = Scale3

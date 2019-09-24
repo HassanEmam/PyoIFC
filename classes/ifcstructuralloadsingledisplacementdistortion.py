@@ -1,0 +1,3 @@
+class IFCSTRUCTURALLOADSINGLEDISPLACEMENTDISTORTION(IFCSTRUCTURALLOADSINGLEDISPLACEMENT):
+	def __init__(self, Distortion):
+		 self.Distortion = Distortion

@@ -1,0 +1,2 @@
+class IFCPREDEFINEDCURVEFONT(IFCPREDEFINEDITEM):
+	def __init__(self):

@@ -1,0 +1,2 @@
+class IFCDOCUMENTREFERENCE(IFCEXTERNALREFERENCE):
+	def __init__(self):

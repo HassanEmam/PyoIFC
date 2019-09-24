@@ -1,0 +1,2 @@
+class IFCCURTAINWALL(IFCBUILDINGELEMENT):
+	def __init__(self):

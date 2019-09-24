@@ -1,0 +1,2 @@
+class IFCFLOWSEGMENT(IFCDISTRIBUTIONFLOWELEMENT):
+	def __init__(self):

@@ -1,0 +1,2 @@
+class IFCFASTENERTYPE(IFCELEMENTCOMPONENTTYPE):
+	def __init__(self):

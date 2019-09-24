@@ -1,0 +1,2 @@
+class IFCPREDEFINEDTEXTFONT(IFCPREDEFINEDITEM):
+	def __init__(self):

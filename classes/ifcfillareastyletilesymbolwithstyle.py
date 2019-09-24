@@ -1,0 +1,3 @@
+class IFCFILLAREASTYLETILESYMBOLWITHSTYLE(IFCGEOMETRICREPRESENTATIONITEM):
+	def __init__(self, Symbol):
+		 self.Symbol = Symbol

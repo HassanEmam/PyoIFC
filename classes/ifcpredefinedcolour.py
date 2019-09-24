@@ -1,0 +1,2 @@
+class IFCPREDEFINEDCOLOUR(IFCPREDEFINEDITEM):
+	def __init__(self):

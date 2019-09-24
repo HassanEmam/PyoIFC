@@ -1,0 +1,2 @@
+class IFCMECHANICALFASTENERTYPE(IFCFASTENERTYPE):
+	def __init__(self):

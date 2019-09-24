@@ -1,0 +1,2 @@
+class IFCSHAPEREPRESENTATION(IFCSHAPEMODEL):
+	def __init__(self):

@@ -1,0 +1,2 @@
+class IFCTENDONANCHOR(IFCREINFORCINGELEMENT):
+	def __init__(self):

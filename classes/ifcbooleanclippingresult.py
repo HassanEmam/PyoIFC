@@ -1,0 +1,2 @@
+class IFCBOOLEANCLIPPINGRESULT(IFCBOOLEANRESULT):
+	def __init__(self):

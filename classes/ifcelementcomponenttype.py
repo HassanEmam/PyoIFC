@@ -1,0 +1,2 @@
+class IFCELEMENTCOMPONENTTYPE(IFCELEMENTTYPE):
+	def __init__(self):

@@ -1,0 +1,2 @@
+class IFCSTRUCTURALMEMBER(IFCSTRUCTURALITEM):
+	def __init__(self):

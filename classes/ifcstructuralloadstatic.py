@@ -1,0 +1,2 @@
+class IFCSTRUCTURALLOADSTATIC(IFCSTRUCTURALLOAD):
+	def __init__(self):

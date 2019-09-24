@@ -1,0 +1,2 @@
+class IFCDISTRIBUTIONELEMENT(IFCELEMENT):
+	def __init__(self):

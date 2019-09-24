@@ -1,0 +1,2 @@
+class IFCRELOCCUPIESSPACES(IFCRELASSIGNSTOACTOR):
+	def __init__(self):

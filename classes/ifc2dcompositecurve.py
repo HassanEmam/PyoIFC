@@ -1,0 +1,2 @@
+class IFC2DCOMPOSITECURVE(IFCCOMPOSITECURVE):
+	def __init__(self):

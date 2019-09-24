@@ -1,0 +1,2 @@
+class IFCDISCRETEACCESSORY(IFCELEMENTCOMPONENT):
+	def __init__(self):

@@ -1,0 +1,2 @@
+class IFCRELAGGREGATES(IFCRELDECOMPOSES):
+	def __init__(self):

@@ -1,0 +1,2 @@
+class IFCSURFACE(IFCGEOMETRICREPRESENTATIONITEM):
+	def __init__(self):

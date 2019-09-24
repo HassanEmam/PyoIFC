@@ -1,0 +1,2 @@
+class IFCFACETEDBREP(IFCMANIFOLDSOLIDBREP):
+	def __init__(self):

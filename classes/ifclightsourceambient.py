@@ -1,0 +1,2 @@
+class IFCLIGHTSOURCEAMBIENT(IFCLIGHTSOURCE):
+	def __init__(self):

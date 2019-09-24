@@ -1,0 +1,2 @@
+class IFCANNOTATIONOCCURRENCE(IFCSTYLEDITEM):
+	def __init__(self):

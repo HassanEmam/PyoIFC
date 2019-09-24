@@ -1,0 +1,2 @@
+class IFCBUILDINGELEMENTTYPE(IFCELEMENTTYPE):
+	def __init__(self):

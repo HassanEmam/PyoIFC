@@ -1,0 +1,2 @@
+class IFCLOOP(IFCTOPOLOGICALREPRESENTATIONITEM):
+	def __init__(self):

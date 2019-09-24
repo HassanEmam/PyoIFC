@@ -1,0 +1,2 @@
+class IFCGEOMETRICCURVESET(IFCGEOMETRICSET):
+	def __init__(self):
